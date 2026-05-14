@@ -1,6 +1,8 @@
 # cmm219
 
-I build practical local-first tools, automation workflows, and developer utilities.
+I build practical software systems for operations-heavy workflows: desktop tools, automation, internal dashboards, data pipelines, and AI-assisted developer workflows.
+
+Most of my active work is private. The public repos here show selected tools, release practices, and experiments that are safe to share.
 
 Current public work:
 
@@ -10,8 +12,9 @@ Current public work:
 
 What I care about:
 
-- Local-first software that keeps data on the user's machine.
-- Small tools that solve real workflow problems.
+- Software that fits real operational workflows.
+- Local-first tools where local data and privacy matter.
+- Automation that reduces repeated manual work.
 - Clear docs, testable behavior, and honest changelogs.
 - AI-assisted development with human review.
 
