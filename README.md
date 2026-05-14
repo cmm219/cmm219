@@ -15,7 +15,7 @@ What I work on:
 
 Current public work:
 
-- [Scrolly Polly Notely](https://github.com/cmm219/ScrollyPollyNotely-public) - a small Windows-friendly floating notes app built with Python and Tkinter
+- [Scrolly Polly Notely](https://github.com/cmm219/scrolly-polly-notely) - a small Windows-friendly floating notes app built with Python and Tkinter
 - [mcstacks Codex Claude Skills](https://github.com/cmm219/mcstacks-codex-claude-skills) - Codex skills that use Claude Code for review, planning, and design feedback
 - [ShiftPay](https://github.com/cmm219/ShiftPay) - a restaurant staff marketplace prototype for hospitality hiring
 
