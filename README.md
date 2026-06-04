@@ -11,6 +11,7 @@ What I work on:
 - Data integrity, reconciliation, audit, and release tooling
 - Messaging, notification, and command-driven workflows
 - Automated sports and prediction-market trading systems: pricing models, data pipelines, execution checks, and risk controls
+- Seven-figure poker cash-game results across online and live play
 - Local desktop utilities and developer automation
 - AI-assisted development with human review and production safeguards
 
