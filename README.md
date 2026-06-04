@@ -10,7 +10,7 @@ What I work on:
 - Financially sensitive workflow tools where correctness matters
 - Data integrity, reconciliation, audit, and release tooling
 - Messaging, notification, and command-driven workflows
-- Sports and prediction-market trading systems: pricing models, data pipelines, reconciliation, and risk controls
+- Automated sports and prediction-market trading systems: pricing models, data pipelines, execution checks, and risk controls
 - Local desktop utilities and developer automation
 - AI-assisted development with human review and production safeguards
 
@@ -30,5 +30,3 @@ What I care about:
 - Market structure, pricing discipline, and risk-aware automation
 - Automation that reduces repeated manual work without hiding risk
 - Practical engineering over novelty
-
-I trade sports and prediction markets from the builder's side. The work I care about is pricing, data quality, reconciliation, and the risk controls that keep automated systems honest under uncertainty.
