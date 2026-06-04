@@ -18,7 +18,6 @@ What I work on:
 Selected public work:
 
 - [Scrolly Polly Notely](https://github.com/cmm219/scrolly-polly-notely) - a small Windows-friendly floating notes app built with Python and Tkinter
-- [Agent Project Playbook](https://github.com/cmm219/agent-project-playbook) - a public playbook for agent-safe project setup, local knowledge routing, and Codex + Claude workflows
 - [McStacks](https://github.com/cmm219/mcstacks-codex-claude-skills) - a public agent stack for Codex + Claude review, design, PRD, brain routing, and shipping workflows
 - [ShiftPay](https://github.com/cmm219/ShiftPay) - a restaurant staff marketplace prototype showing product workflow and marketplace thinking
 
