@@ -17,9 +17,11 @@ What I work on:
 
 Selected public work:
 
-- [Scrolly Polly Notely](https://github.com/cmm219/scrolly-polly-notely) - a small Windows-friendly floating notes app built with Python and Tkinter
 - [McStacks](https://github.com/cmm219/mcstacks-codex-claude-skills) - a public agent stack for Codex + Claude review, design, PRD, brain routing, and shipping workflows
+- [Daily Planner](https://github.com/cmm219/daily-planner) - a local-first desktop planner with custom sections, themes, history, and month-in-review playback
+- [Scrolly Polly Notely](https://github.com/cmm219/scrolly-polly-notely) - a Windows-friendly floating notes app built with Python and Tkinter
 - [ShiftPay](https://github.com/cmm219/ShiftPay) - a restaurant staff marketplace prototype showing product workflow and marketplace thinking
+- [Agent Project Playbook](https://github.com/cmm219/agent-project-playbook) - an earlier public playbook for local-first agent project setup and knowledge routing; McStacks is the current stack home
 
 What I care about:
 
