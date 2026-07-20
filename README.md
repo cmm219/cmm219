@@ -3,8 +3,8 @@
 Full-stack and applied AI engineer building production systems with Python, FastAPI,
 PostgreSQL, React/TypeScript, and agentic engineering workflows.
 
-I work through [Ormond Labs LLC](https://ormondlabs.com/) and am based in Ormond Beach,
-Florida. I am open to remote founding-engineer, backend, and applied AI roles in the US.
+I work through Ormond Labs LLC and am based in Ormond Beach, Florida. I am open to remote
+founding-engineer, backend, and applied AI roles in the US.
 
 [Portfolio](https://chris-portfolio-97r.pages.dev/) ·
 [LinkedIn](https://www.linkedin.com/in/chris-mcnamara-823b41408) ·
