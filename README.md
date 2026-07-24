@@ -26,8 +26,8 @@ The implementation and product materials remain private.
 
 - [McStacks](https://github.com/cmm219/mcstacks-codex-claude-skills) — public Codex + Claude workflow stack with local-first memory routing, review gates, and shipping discipline
 - [Agent Beach](https://github.com/cmm219/agentbeach) — historical visual agent-coordination prototype that originated around mid-2024; the public repository is a sanitized simulated presentation
-- [Daily Planner](https://github.com/cmm219/daily-planner) — local-first Windows planner with Markdown export, themes, history, and 115 CI-tested behaviors
-- [Scrolly Polly Notely](https://github.com/cmm219/scrolly-polly-notely) — floating desktop notes app with 99 CI-tested behaviors and eight tagged releases
+- [Daily Planner](https://github.com/cmm219/daily-planner) — local-first cross-platform desktop planner with Markdown export, themes, history, and 115 CI-tested behaviors
+- [Scrolly Polly Notely](https://github.com/cmm219/scrolly-polly-notely) — floating Windows desktop notes app with 99 CI-tested behaviors and eight tagged releases
 
 ## How I work
 
